@@ -64,10 +64,3 @@ Ao ser executado, o programa realizará as seguintes etapas:
     *   Imprime "__________Ordenação levando em conta a *DATA*_________".
     *   Chama `runTests.pordata()`, que ordena os dados por data completa.
 
-## Saída Esperada
-
--   **Arquivos:** Serão criados (ou sobrescritos) os seguintes arquivos no diretório `dataset`:
-    -   `password_classifier.csv`
-    -   `passwords_formated_data.csv`
-    -   `passwords_classifier.csv`
--   **Console:** O programa imprimirá mensagens indicando as etapas de ordenação e, presumivelmente, os resultados ou status dessas ordenações executadas pela classe `RunTests`. #
